@@ -1,0 +1,1 @@
+-c --cpu Cortex-M3 -D__MICROLIB -g -O0 --apcs=interwork --split_sections --asm --interleave --asm_dir ".\\listing\\" -I..\..\library\inc -I..\..\library\src -I..\uvsion -I "C:\Keil\ARM\CMSIS\Include" -I "C:\Keil\ARM\INC\ST\STM32F10x" -o ".\obj\rs274ngc_pre.o" --list_dir ".\\listing\\" --list --omf_browse ".\obj\rs274ngc_pre.crf" --depend ".\obj\rs274ngc_pre.d" "rs274ngc_pre.c"

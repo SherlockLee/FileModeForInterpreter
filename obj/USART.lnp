@@ -1,0 +1,4 @@
+--cpu Cortex-M3 ".\obj\stm32f10x.o" ".\obj\main.o" ".\obj\stm32f10x_it.o" "..\common\STM32F10xR.LIB" ".\obj\canon_pre.o" ".\obj\rs274ngc_pre.o" --library_type=microlib --strict --scatter ".\obj\USART.sct" 
+--autoat --summary_stderr --info summarysizes --map --xref --callgraph --symbols 
+--info sizes --info totals --info unused --info veneers 
+ --list ".\listing\USART.map" -o ".\obj\USART.axf"

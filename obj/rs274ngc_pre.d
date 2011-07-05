@@ -1,0 +1,9 @@
+.\obj\rs274ngc_pre.o: rs274ngc_pre.c
+.\obj\rs274ngc_pre.o: C:\Keil\ARM\RV31\INC\stdio.h
+.\obj\rs274ngc_pre.o: C:\Keil\ARM\RV31\INC\stdlib.h
+.\obj\rs274ngc_pre.o: C:\Keil\ARM\RV31\INC\math.h
+.\obj\rs274ngc_pre.o: C:\Keil\ARM\RV31\INC\string.h
+.\obj\rs274ngc_pre.o: C:\Keil\ARM\RV31\INC\ctype.h
+.\obj\rs274ngc_pre.o: rs274ngc.h
+.\obj\rs274ngc_pre.o: canon.h
+.\obj\rs274ngc_pre.o: rs274ngc_return.h

@@ -1,0 +1,1 @@
+"canon_pre.c" -E -c --cpu Cortex-M3 -D__MICROLIB -O0 --apcs=interwork --split_sections -I..\..\library\inc -I..\..\library\src -I..\uvsion -I "C:\Keil\ARM\CMSIS\Include" -I "C:\Keil\ARM\INC\ST\STM32F10x" -o ".\listing\canon_pre.i" --list_dir ".\\listing\\" --list
